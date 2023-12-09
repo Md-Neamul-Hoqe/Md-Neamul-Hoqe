@@ -55,14 +55,6 @@ Passionate MERN stack developer fueled by a vision to craft innovative web solut
   <img src="https://github-readme-stats.vercel.app/api?username=md-neamul-hoqe&show_icons=true" />
 </picture>
 
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Md-Neamul-Hoqe&repo=Portfolio-Ibn-Aroub)](https://github.com/Md-Neamul-Hoqe/Portfolio-Ibn-Aroub)
-[![To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=Md-Neamul-Hoqe&repo=todo-list)](https://github.com/Md-Neamul-Hoqe/todo-list)
-[![Tourist Guide](https://github-readme-stats.vercel.app/api/pin/?username=Md-Neamul-Hoqe&repo=Tourist-Guide-Client)](https://github.com/Md-Neamul-Hoqe/Tourist-Guide-Client)
-[![Rental Cars And Bikes](https://github-readme-stats.vercel.app/api/pin/?username=Md-Neamul-Hoqe&repo=Career-maker_Rental-SwiftWheels-client_side)](https://github.com/Md-Neamul-Hoqe/Career-maker_Rental-SwiftWheels-client_side)
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,react,expressjs,mongodb,postman,nodejs,firebase,vercel,netlify,git,github,photoshop,figma,php,mysql)](https://skillicons.dev)
@@ -73,3 +65,12 @@ Passionate MERN stack developer fueled by a vision to craft innovative web solut
 <a href="mailto:hoqe1997@gmial.com" target="blank"><img width="auto" align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="muhammad-neamul-hoqe-ibn-aroub-69a40429b" height="30" width="40" /></a><a href="https://linkedin.com/in/muhammad-neamul-hoqe-ibn-aroub-69a40429b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-neamul-hoqe-ibn-aroub-69a40429b" height="30" width="40" /></a>
 <a href="https://fb.com/mdneamulhoqe.neamul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdneamulhoqe.neamul" height="30" width="40" /></a>
 </p>
+
+
+## Projects Live Links
+- [Portfolio](http://ibn-aroub-portfolio.surge.sh)
+- [To-Do List](https://tourist-guides-mnh.web.app)
+- [Tourist Guide](https://tourist-guides-mnh.web.app)
+- [Rental Cars And Bikes](https://ass-11-career-maker-client.web.app)
+
+
