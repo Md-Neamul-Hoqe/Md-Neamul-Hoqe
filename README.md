@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/SPfWp1f/MERN-Stack-Developer.png" width='100%'/>
+![Banner](https://github.com/Md-Neamul-Hoqe/Md-Neamul-Hoqe/blob/main/MERN%20Stack%20Developer.png)
 
 <h1 align="center">Welcome 👋, I'm Md. Neamul Hoqe</h1>
 <h3 align="center">A passionate MERN Stack Developer in Bangladesh</h3>
