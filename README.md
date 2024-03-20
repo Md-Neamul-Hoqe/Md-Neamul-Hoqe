@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQHvWWkpYxoLxg/profile-displaybackgroundimage-shrink_350_1400/0/1702088646959?e=1707350400&v=beta&t=NR7HTuZrP-VX86OgATPjpAWrsnlM-sMZrXTrDcq3D1o" width='100%'/>
+<img src="https://i.ibb.co/SPfWp1f/MERN-Stack-Developer.png" width='100%'/>
 
 <h1 align="center">Welcome 👋, I'm Md. Neamul Hoqe</h1>
 <h3 align="center">A passionate MERN Stack Developer in Bangladesh</h3>
