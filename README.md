@@ -57,20 +57,20 @@ Passionate MERN stack developer fueled by a vision to craft innovative web solut
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,react,expressjs,mongodb,postman,nodejs,firebase,vercel,netlify,git,github,photoshop,figma,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,react,nextjs,redux,expressjs,mongodb,postman,nodejs,firebase,vercel,netlify,git,github,photoshop,figma,php,mysql)](https://skillicons.dev)
 
 
 ## Connect with me:
 <p align="left">
-<a href="mailto:hoqe1997@gmial.com" target="blank"><img width="auto" align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="muhammad-neamul-hoqe-ibn-aroub-69a40429b" height="30" width="40" /></a><a href="https://linkedin.com/in/muhammad-neamul-hoqe-ibn-aroub-69a40429b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-neamul-hoqe-ibn-aroub-69a40429b" height="30" width="40" /></a>
+<a href="mailto:hoqe1997@gmial.com" target="blank"><img width="auto" align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="muhammad-neamul-hoqe-ibn-aroub-69a40429b" height="30" width="40" /></a><a href="https://www.linkedin.com/in/mneamulh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-neamul-hoqe-ibn-aroub-69a40429b" height="30" width="40" /></a>
 <a href="https://fb.com/mdneamulhoqe.neamul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdneamulhoqe.neamul" height="30" width="40" /></a>
 </p>
 
 
 ## Projects Live Links
+- [SyncHome](https://synchome.vercel.app)
 - [Portfolio](http://ibn-aroub-portfolio.surge.sh)
 - [To-Do List](https://to-do-mnh.web.app)
 - [Tourist Guide](https://tourist-guides-mnh.web.app)
-- [Rental Cars And Bikes](https://ass-11-career-maker-client.web.app)
 
 
